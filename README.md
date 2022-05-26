@@ -1,2 +1,2 @@
-# Hexacrit.github.io
+# hexacrit.github.io
 Starter plate
